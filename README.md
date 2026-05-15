@@ -8,9 +8,10 @@
 - ` open CMD `
 - ` Cloud Code must be installed manually first. يجيب تثبيت كلود كود بالجهاز `
 - npm install -g @anthropic-ai/claude-code
-  - ` If it doesn't work open Power Shell اذا مانفع شغل البور شل كمسؤول واكتب الام واضغط نعم yes`
+- ` If it doesn't work open Power Shell اذا مانفع شغل البور شل كمسؤول واكتب الام واضغط نعم yes`
 - Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 - know u can run claude
+  
 `
         Build something great
         You’re all set up for Claude Code.
