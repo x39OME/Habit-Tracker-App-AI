@@ -22,6 +22,12 @@
         You can now close this window.
 `
 
+## Getting Started Expo Applaction
+
+- `` Open Cmd -> cd desktop ``
+- npx create-expo-app habit-tracker
+- claude
+
 
 ## Claude Code
 
@@ -37,19 +43,6 @@ Install the plugin:
 /plugin install expo
 ```
  
-
-## Getting Started Expo Applaction
-
-- `` Open Cmd -> cd desktop ``
-- npx create-expo-app habit-tracker
-- claude
-
-
-
-## What did we use in the project?
-1- [AI Claude Code](https://claude.ai/new)
-
-
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/en) (LTS recommended)
