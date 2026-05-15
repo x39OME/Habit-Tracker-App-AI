@@ -1,5 +1,6 @@
 # Habit Tracker App AI Claude Code
-### 1- [expo/skills](https://github.com/expo/skills/tree/main)
+### 1- Install [Claude Code](https://code.claude.com/docs/en/quickstart)
+### 1- Install [expo/skills](https://github.com/expo/skills)
 ### 2- 
 ### 3-
 
