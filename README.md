@@ -2,8 +2,8 @@
 
 ## Install
 ### 1- [Rect Native Expo](https://docs.expo.dev/more/create-expo/)
-### 2- [Expo/skills](https://github.com/expo/skills)
-### 3- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide)
+### 2- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide)
+### 3- [Expo/skills](https://github.com/expo/skills)
 
 
 
